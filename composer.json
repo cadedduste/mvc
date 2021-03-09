@@ -1,0 +1,15 @@
+{
+    "name": "utente/phpmvcframework",
+    "authors": [
+        {
+            "name": "stefano.cadeddu",
+            "email": "stefano.cadeddu@iteuromedia.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
